@@ -3,16 +3,26 @@
   "identifier": "com.gizmogrid.source",
   "apps": [
     {
-      "name": "FanController",
+      "name": "Fan Controller",
       "bundleIdentifier": "gizmogrid.Fan-Controller",
       "developerName": "Gizmogrid",
-      "version": "1.0.0",
-      "versionDate": "2026-11-09",
-      "versionDescription": "Initial release of Fan Controller.",
-      "downloadURL": "https://github.io",
-      "localizedDescription": "An application to monitor and manage system fan speeds.",
-      "iconURL": "https://github.io",
-      "size": 185344
+      "subtitle": "Control your Atomberg fans",
+      "localizedDescription": "Control your Atomberg fans from one app.",
+      "iconURL": "https://wrtdwh.github.io/My-Store/icon.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-09",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://github.com/wrtdwh/My-Store/releases/download/v1.0.0/Fan.Controller.ipa",
+          "size": 185344
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
-  ]
+  ],
+  "news": []
 }
