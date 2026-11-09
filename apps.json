@@ -3,7 +3,7 @@
   "identifier": "com.gizmogrid.source",
   "apps": [
     {
-      "name": "Fan Controller",
+      "name": "FanController",
       "bundleIdentifier": "gizmogrid.Fan-Controller",
       "developerName": "Gizmogrid",
       "version": "1.0.0",
