@@ -1,0 +1,18 @@
+{
+  "name": "Gizmogrid AltStore Source",
+  "identifier": "com.gizmogrid.source",
+  "apps": [
+    {
+      "name": "Fan Controller",
+      "bundleIdentifier": "gizmogrid.Fan-Controller",
+      "developerName": "Gizmogrid",
+      "version": "1.0.0",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Initial release of Fan Controller.",
+      "downloadURL": "https://github.com",
+      "localizedDescription": "An application to monitor and manage system fan speeds.",
+      "iconURL": "https://githubusercontent.com",
+      "size": 185344
+    }
+  ]
+}
