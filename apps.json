@@ -11,6 +11,14 @@
       "iconURL": "https://wrtdwh.github.io/My-Store/icon.png",
       "versions": [
         {
+          "version": "1.1",
+          "buildVersion": "1.02",
+          "date": "2026-11-10",
+          "localizedDescription": "New Features and Bug fixes.",
+          "downloadURL": "https://github.com/wrtdwh/My-Store/releases/download/v1.1/Fan.Controller.ipa",
+          "size": 189079
+        },
+        {
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-11-09",
