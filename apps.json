@@ -11,6 +11,14 @@
       "iconURL": "https://wrtdwh.github.io/My-Store/icon.png",
       "versions": [
         {
+          "version": "2.0",
+          "buildVersion": "2",
+          "date": "2026-11-12",
+          "localizedDescription": "New Features: Favorites tab with custom shortcuts, iCloud Sync, Custom Accent Color, Auto-refresh Toggle, Cleaned API View. Improvements: iOS 27.0 SDK, Swift 5.10, App Intents enhancements.",
+          "downloadURL": "https://github.com/wrtdwh/My-Store/releases/download/v2.0/Fan.Controller.ipa",
+          "size": 229769
+        },
+        {
           "version": "1.1",
           "buildVersion": "1.02",
           "date": "2026-11-10",
